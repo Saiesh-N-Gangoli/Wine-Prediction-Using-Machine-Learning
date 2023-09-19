@@ -1,5 +1,5 @@
 # Wine Quality Prediction with Random Forest
-asdfghdfghjhgfxcvbhj
+
 ## Introduction
 
 This project focuses on predicting the quality of wine using attributes from a dataset consisting of 1000 samples. The prediction is achieved through the utilization of the Random Forest algorithm, a powerful machine learning technique that excels in both classification and regression tasks.
